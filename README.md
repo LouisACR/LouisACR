@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Louis !
 - 👀 I’m interested in business & programming
 - Currently AI Software Engineer @ Olympus
-- Founder of https://github.com/olixid/
+- Founder of https://github.com/olixid/ (AI consulting for European SMEs) and https://github.com/ject-epita (top 10 best Junior-Enterprises in France)
