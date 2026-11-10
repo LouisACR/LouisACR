@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Louis !
 - 👀 I’m interested in business & programming
-- 💞️ I’m looking to collaborate on nothing for the moment.
+- Currently AI Software Engineer @ Olympus
+- Founder of https://github.com/olixid/
